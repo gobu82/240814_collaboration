@@ -2,3 +2,4 @@
 # 각자 자랑하고 싶은 코드를 입력하세요!!
 
 print("Trump Again!")
+print("우에엥")
